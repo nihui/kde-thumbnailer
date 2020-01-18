@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-w3x">
+    <comment>Warcraft III TFT map</comment>
+    <comment xml:lang="zh_CN">Warcraft III 冰封王座地图</comment>
+    <glob pattern="*.w3x"/>
+  </mime-type>
+  <mime-type type="application/x-w3m">
+    <comment>Warcraft III ROC map</comment>
+    <comment xml:lang="zh_CN">Warcraft III 混乱之治地图</comment>
+    <glob pattern="*.w3m"/>
+  </mime-type>
+</mime-info>

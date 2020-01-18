@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+Name=Plasmoid Package
+Name[zh_CN]=Plasmoid 包
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=application/x-plasma;
+IgnoreMaximumSize=true
+X-KDE-Library=plasmoidthumbnail

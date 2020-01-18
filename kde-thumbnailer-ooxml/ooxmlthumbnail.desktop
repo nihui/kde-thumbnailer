@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+Name=Microsoft OOXML Document
+Name[de]=Microsoft OOXML Dokumente
+Name[zh_CN]=Microsoft OOXML 文档
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=application/vnd.openxmlformats-officedocument.presentationml.presentation;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;application/vnd.openxmlformats-officedocument.wordprocessingml.document;
+IgnoreMaximumSize=true
+X-KDE-Library=ooxmlthumbnail

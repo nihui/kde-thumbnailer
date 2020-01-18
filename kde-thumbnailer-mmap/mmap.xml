@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-mmap">
+    <comment>Mind mapping file</comment>
+    <comment xml:lang="zh_CN">思维导图文件</comment>
+    <glob pattern="*.mmap"/>
+  </mime-type>
+</mime-info>

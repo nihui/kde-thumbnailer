@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+Name=Qt Markup Language File
+Name[zh_CN]=Qt 标记语言文件
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=text/x-qml;
+IgnoreMaximumSize=true
+X-KDE-Library=qmlthumbnail

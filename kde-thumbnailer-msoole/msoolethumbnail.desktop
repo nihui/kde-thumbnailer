@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+Name=Microsoft Office OLE Document
+Name[de]=Microsoft Office OLE Dokumente
+Name[zh_CN]=Microsoft Office OLE 文档
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=application/vnd.ms-powerpoint;application/vnd.ms-excel;application/msword;
+IgnoreMaximumSize=true
+X-KDE-Library=msoolethumbnail

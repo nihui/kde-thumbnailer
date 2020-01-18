@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+Name=Rich Text Format
+Name[zh_CN]=RTF 文档
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=application/rtf;
+CacheThumbnail=true
+X-KDE-Library=rtfthumbnail

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+Name=Windows MetaFile
+Name[zh_CN]=Windows 图元文件
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=image/x-wmf;application/x-msmetafile;
+CacheThumbnail=true
+InitialPreference=0
+X-KDE-Library=wmfthumbnail

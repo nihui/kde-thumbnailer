@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="image/x-webp">
+    <comment>WebP image</comment>
+    <comment xml:lang="zh_CN">WebP 图像</comment>
+    <glob pattern="*.webp"/>
+  </mime-type>
+</mime-info>

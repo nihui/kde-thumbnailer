@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+Name=Mind Mapping File
+Name[zh_CN]=思维导图文件
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=application/x-mmap;
+IgnoreMaximumSize=true
+X-KDE-Library=mmapthumbnail

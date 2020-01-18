@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+Name=Warcraft III Map
+Name[zh_CN]=Warcraft III 地图
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=application/x-w3x;application/x-w3m;
+CacheThumbnail=true
+IgnoreMaximumSize=true
+X-KDE-Library=w3xthumbnail
